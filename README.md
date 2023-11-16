@@ -3,3 +3,8 @@ This App compares a country's Yearly / 5yearly Budgets with an Ideal Budget for 
 This Project - BIT_IdealBudgetTheory - Aims to evolve into 
     a Game / Video Game and aims to educate the population thru Single/Multiplayer Online Games
     If possible help th Policy Makers prioritize their policies of commiting resources so that the National Economy improves in the Optimal way
+Ideal Budget Theory aspires to equip citizens -(/ subjects in case of Kingdoms!)-:-
+  to be aware of National Economy and their collective participation in it + how it compares with the Global Economy 
+  to participate,suggest,question and if possible alter the Economic Decisions of their Political Leaders in Real Time 
+Instead of waiting for their time to come on the Day of Voting which is a very Imperfect way 
+to cause meaningfull changes in the socio-economic well being of the Country
