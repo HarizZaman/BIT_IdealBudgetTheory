@@ -9,5 +9,5 @@ This Project - BIT_IdealBudgetTheory - Aims to evolve into :-
 Ideal Budget Theory aspires to equip citizens -(/ subjects in case of Kingdoms!)-:-
   1) To be aware of National Economy and their collective participation in it + how it compares with the Global Economy 
   2) To participate,suggest,question and if possible alter the Economic Decisions of their Political Leaders in Real Time 
-Instead of waiting for their time to come on the Day of Voting which is a very Imperfect way 
-to cause meaningfull changes in the socio-economic well being of the Country
+     Instead of waiting for their time to come on the Day of Voting which is a very Imperfect way 
+     to cause meaningfull changes in the socio-economic well being of the Country
